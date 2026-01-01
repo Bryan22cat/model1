@@ -1,3 +1,5 @@
+<!-- no-index -->
+
 # Model 1 — High-Density Judgment Framework
 
 ## What this is
