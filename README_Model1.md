@@ -1,3 +1,7 @@
+> **Release Note (2026-06-01)**  
+> This repository contains a completed judgment sample.  
+> It was intentionally held for a cooling period before release.
+
 <!-- no-index -->
 
 # Model 1 — High-Density Judgment Framework
