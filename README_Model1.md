@@ -2,6 +2,13 @@
 > This repository contains a completed judgment sample.  
 > It was intentionally held for a cooling period before release.
 
+> **Important Notice**
+>
+> Before reading or using any material in this repository, please read  
+> **`ORIGINAL_POSITIONING.md`** for originality, scope, usage boundaries, and intent.
+>
+> This repository is part of an independent, experience-driven research effort.
+
 <!-- no-index -->
 
 # Model 1 — High-Density Judgment Framework
