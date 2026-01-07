@@ -83,7 +83,7 @@ Misuse or overextension may lead to incorrect conclusions.
 ## 五、作者与公开声明
 
 **EN**  
-Author: **Liu Zhenjie**  
+Author: **Zhenjie Liu**  
 Independent Researcher  
 
 This document serves as the first public positioning of this framework.
