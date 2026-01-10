@@ -8,6 +8,18 @@
 > **`ORIGINAL_POSITIONING.md`** for originality, scope, usage boundaries, and intent.
 >
 > This repository is part of an independent, experience-driven research effort.
+> ## Purpose
+
+>This repository is not a self-help guide, coaching framework, or behavioral psychology model.
+
+>It documents a stop-loss–oriented way of thinking:  
+>how to recognize when a situation continues to consume time, energy, or integrity without producing viable outcomes — >and how to exit before irreversible damage occurs.
+
+>No attempt is made to persuade, motivate, or optimize behavior.
+>The material assumes the reader already feels something is structurally wrong.
+
+>This work is descriptive, not prescriptive.
+>Use is voluntary. Responsibility remains with the reader.
 
 <!-- no-index -->
 
