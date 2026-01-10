@@ -1,13 +1,3 @@
-> **Release Note (2026-06-01)**  
-> This repository contains a completed judgment sample.  
-> It was intentionally held for a cooling period before release.
-
-> **Important Notice**
->
-> Before reading or using any material in this repository, please read  
-> **`ORIGINAL_POSITIONING.md`** for originality, scope, usage boundaries, and intent.
->
-> This repository is part of an independent, experience-driven research effort.
 > ## Purpose
 
 >This repository is not a self-help guide, coaching framework, or behavioral psychology model.
@@ -20,6 +10,19 @@
 
 >This work is descriptive, not prescriptive.
 >Use is voluntary. Responsibility remains with the reader.
+
+
+> **Release Note (2026-06-01)**  
+> This repository contains a completed judgment sample.  
+> It was intentionally held for a cooling period before release.
+
+> **Important Notice**
+>
+> Before reading or using any material in this repository, please read  
+> **`ORIGINAL_POSITIONING.md`** for originality, scope, usage boundaries, and intent.
+>
+> This repository is part of an independent, experience-driven research effort.
+
 
 <!-- no-index -->
 
