@@ -25,6 +25,9 @@
 
 
 <!-- no-index -->
+This repository is a structural record.
+It is not a guide, not advice, and not a solution.
+Use at your own discretion.
 
 # Model 1 — High-Density Judgment Framework
 
