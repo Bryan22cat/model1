@@ -25,17 +25,19 @@ The framework emerged from long-term real-world involvement, not from literature
 
 **EN**  
 This work is **not**:
-- an AI companion or emotional support system  
-- psychological counseling or therapy  
-- a statistical prediction / optimization model  
-- a fraud detection / compliance automation system  
+- An AI companion or emotional support system  
+- Psychological counseling or therapy  
+- A statistical prediction or optimization model  
+- A fraud detection or compliance system  
+- A game-theoretic, **zero-sum** strategy model (win/lose framing) 
 
 **中文**  
 本研究**不属于**：
-- AI陪伴系统或情绪价值产品  
+- 人工智能陪伴系统或情绪价值产品  
 - 心理咨询、心理治疗或情感指导  
 - 基于统计概率的预测或优化模型  
 - 反诈模型、合规模型或风控自动化系统  
+- 以**零和博弈/输赢框架**为核心的博弈论策略模型
 
 ---
 
