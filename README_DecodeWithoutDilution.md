@@ -59,3 +59,42 @@ Task:
 3) If summarizing, do compression only: same claims, same strength, same constraints.
 4) After output, run a “dilution check”: list any place where you might have softened, hedged, or added meaning. If any exists, revise until none remain.
 If you cannot preserve meaning, stop and say: “Cannot decode without changing meaning.”
+---
+
+## 中文镜像版（不稀释密度）
+
+### 核心定义
+**判断密度（Judgment density）** 指：在不进行叙事扩写、情绪润滑、道德包装、社交修辞的前提下，
+最大限度保留“可用于决策”的信息强度与边界。
+
+AI 在本仓库中仅允许作为 **编辑型解码器（editorial decoder）** 使用，
+不得作为解释者、劝导者、安慰者或权威来源。
+
+### AI 使用披露
+允许使用 AI 进行起草、排版、压缩、翻译，但必须满足：
+**意义不变、力度不变、边界不变**。
+最终范围、约束与判断结论归作者所有。
+AI 是解码器，不是裁判，也不承担责任。
+
+### 允许行为（仅解码）
+AI 可以：
+- 重排结构（标题/要点/顺序），但**不得新增观点**
+- 澄清逻辑流（仅复述已有内容，不引入新假设）
+- 翻译（术语级对齐，不改变语气强度与边界）
+- 总结（只做压缩，不做解释）
+
+### 禁止行为（解释/稀释）
+AI 不得：
+- 添加动机、背景、情绪、安慰、价值判断
+- 把裁决写成故事、建议、鸡汤、行为优化
+- 为了“好读”而变软（加模糊词、加安抚、去锋利边界）
+- 引入新的例子、类比、变量、结论
+- 用任何方式替用户承担责任
+
+### 有效性判定（单行规则）
+若解码后的文本变得**更舒服、更好接受、更不尖锐**，
+则说明 **稀释发生**，输出无效。
+
+### 失败处理（强制停止）
+若无法在不改变意义的前提下重写/翻译，AI 必须停止并回复：
+“无法在不改变意义的情况下解码。请提供需要保留的原句/原段。”
